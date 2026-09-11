@@ -63,8 +63,10 @@ I am a Computer Science graduate (Information Systems) based in Puchong, Selango
 
 ### 🌱 Featured Projects & Experience
 
+* **Full-Stack E-Commerce Platform** — Architected an end-to-end e-commerce application using React and TypeScript on the frontend, managed with Zustand for state handling and interactive UI elements. Built a RESTful Node.js backend featuring secure user registration, password hashing, and JWT authentication, backed by PostgreSQL for primary data persistence and Redis for performant caching.
 * **Exam Invigilation Scheduling System** — Developed an automated scheduling web platform leveraging a hybrid stack of PHP, JavaScript, MySQL, HTML/CSS, and a Python optimization backend powered by Particle Swarm Optimization (PSO) to eliminate timetable conflicts.
 * **Hostel Management System** — Engineered a full-stack MVC web application using Java (JSP, Servlets, JavaBeans) and MySQL, featuring automated reservation workflows, HTTP session security, and owner analytical dashboards.
+* **ParcelPro UiTM** — Developed a web-based campus parcel management system using Java (JSP and Servlets) integrated with an Oracle database to streamline parcel tracking, student notifications, and log management.
 * **Sport House Smart Management System** — Built a full-stack tournament management web app in PHP, MySQL, and JavaScript with multi-tier RBAC and an automated scoring engine to aggregate real-time standings.
   * 🏆 *Awarded Gold Medalist & Best Category Award at ICRIPE 2020, and Best Final Year Project Award at Politeknik Kuala Terengganu.*
 
