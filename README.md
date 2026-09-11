@@ -5,7 +5,8 @@
 ### Fresh Graduate in Computer Science
 
 [![Email](https://img.shields.io/badge/Email-khairilnadjwan25%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khairilnadjwan25@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nadjwan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nadjwan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nadjwan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nadjwan)<br>
+[![Status](https://img.shields.io/badge/Status-Actively_Seeking_Opportunities-success?style=for-the-badge&logo=target)](mailto:khairilnadjwan25@gmail.com)
 
 </div>
 
@@ -13,7 +14,7 @@
 
 ### 💻 About Me
 
-I am a Computer Science graduate based in Puchong, Selangor, with a solid foundation in software development, database management, and big data. Proven capability in handling structural configurations and data alignment for international projects, combining technical coding skills with analytical problem-solving. Driven to build scalable web applications and automated optimization solutions.
+I am a Computer Science graduate (Information Systems) based in Puchong, Selangor, with a solid foundation in software development, database management, and data analytics. Proven capability in handling structural configurations and data alignment for international projects, combining technical coding skills with analytical problem-solving. Driven to build scalable web applications and automated optimization solutions.
 
 ---
 
@@ -77,8 +78,10 @@ I am a Computer Science graduate based in Puchong, Selangor, with a solid founda
 
 ### 🎓 Education
 
-* **Bachelor of Computer Science (Hons.)** — Universiti Teknologi MARA (UiTM) Jasin | CGPA: 3.51
-* **Diploma in Information Technology** — Politeknik Kuala Terengganu | CGPA: 3.60
+* **Bachelor of Computer Science (Hons.)** — Universiti Teknologi MARA (UiTM) Jasin
+  * CGPA: 3.51
+* **Diploma in Information Technology (Digital Technology)** — Politeknik Kuala Terengganu
+  * CGPA: 3.60
 
 <!-- <div align="center">
   <img src="https://komarev.com/ghpvc/?username=nadjwan&color=blueviolet&style=flat-square" alt="Profile Views" />
