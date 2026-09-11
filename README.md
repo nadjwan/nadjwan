@@ -1,59 +1,34 @@
-# Hi there, I'm Khairil Nadjwan! 👋
+<div align="center">
 
-A **Junior Software Developer** and Information Systems graduate based in Puchong, Selangor[cite: 1]. I specialize in full-stack web development, optimization algorithms, and data-driven applications[cite: 1].
+# Hi there, I'm Khairil Nadjwan 👋
 
----
+### Fresh Graduates
 
-### 🚀 About Me
-* 🎓 **Education:** Bachelor of Computer Science (Hons.) from UiTM Jasin (CGPA 3.51)[cite: 1] & Diploma in IT from Politeknik Kuala Terengganu (CGPA 3.60)[cite: 1].
-* 🏆 **Achievement:** Gold Medalist & Best Category Award winner at ICRIPE 2020[cite: 1].
-* 🛠️ **Current Focus:** Building scalable web applications and exploring data science tools.
+[![Email](https://img.shields.io/badge/Email-khairilnadjwan25%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khairilnadjwan25@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nadjwan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nadjwan)
 
----
-
-### 🛠️ Tech Stack & Skills
-
-**Programming Languages & Web**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-
-**Databases & Analytics**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle_SQL-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Data Mining](https://img.shields.io/badge/Data_Mining-DataCamp-05192D?style=flat-square)
+</div>
 
 ---
 
-### 📌 Key Projects
+### 💻 About Me
 
-**[Exam Invigilation Scheduling System](https://github.com/nadjwan)**[cite: 1]
-* Automated scheduling web platform built with **PHP, JavaScript, MySQL**, and a **Python** backend[cite: 1].
-* Implemented a Particle Swarm Optimization (PSO) heuristic algorithm to eliminate timetable conflicts and balance invigilator workloads[cite: 1].
-
-**[Hostel Management System](https://github.com/nadjwan)**[cite: 1]
-* Full-stack MVC web app built using **Java (JSP, Servlets, JavaBeans)** and **MySQL**[cite: 1].
-* Handled reservation workflows, session management, and analytical dashboards for property owners[cite: 1].
-
-**[Sport House Smart Management System](https://github.com/nadjwan)**[cite: 1]
-* Real-time tournament management system using **PHP, MySQL, and JavaScript**[cite: 1].
-* Features multi-tier RBAC and an automated scoring engine for multi-sport aggregation[cite: 1].
-* 🏅 *Awarded Gold Medalist & Best Category Award at ICRIPE 2020*[cite: 1].
+I am a Computer Science graduate based in Puchong, Selangor, with a solid foundation in software development, database management, and big data. Proven capability in handling structural configurations and data alignment for international projects, combining technical coding skills with analytical problem-solving. Driven to build scalable web applications and automated optimization solutions.
 
 ---
 
-### 📜 Certifications
-* **Data Scientist in Python** – DataCamp[cite: 1]
-* **Associate Data Scientist in Python** – DataCamp[cite: 1]
-* **Data Analyst in Python** – DataCamp[cite: 1]
+### 🛠 Tech Stack & Tools
+
+| | | | | | |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/> |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/> |
 
 ---
 
-### 📫 Connect with Me
-* **Email:** [khairilnadjwan25@gmail.com](mailto:khairilnadjwan25@gmail.com)[cite: 1]
-* **LinkedIn:** [linkedin.com/in/nadjwan](https://linkedin.com/in/nadjwan)[cite: 1]
-* **GitHub:** [github.com/nadjwan](https://github.com/nadjwan)[cite: 1]
+### 🌱 Featured Projects & Experience
+
+* **Exam Invigilation Scheduling System** — Developed an automated scheduling web platform leveraging a hybrid stack of PHP, JavaScript, MySQL, HTML/CSS, and a Python optimization backend powered by Particle Swarm Optimization (PSO) to eliminate timetable conflicts.
+* **Hostel Management System** — Engineered a full-stack MVC web application using Java (JSP, Servlets, JavaBeans) and MySQL, featuring automated reservation workflows, HTTP session security, and owner analytical dashboards.
+* **Sport House Smart Management System** — Built a full-stack tournament management web app in PHP, MySQL, and JavaScript with multi-tier RBAC and an automated scoring engine to aggregate real-time standings.
+  * 🏆 *Awarded Gold Medalist & Best Category Award at ICRIPE 2020, and Best Final Year Project Award at Politeknik Kuala Terengganu.*
